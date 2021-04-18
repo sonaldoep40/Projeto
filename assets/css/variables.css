@@ -2,8 +2,8 @@
     --primary-color: #000000;
     --white-color: #FFFFFF;
     --light-gray-color: #EEEEEE;
-    --secondary-color:#FFCC00;
-    --gap: 30px;
+    --secondary-color:#FFFF00;
+    --gap: 3rem;
 }
 
 * {

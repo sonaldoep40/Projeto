@@ -1,14 +1,15 @@
 .intro-content {
     position: relative;
-    top: -8rem;
     display: grid;
-    grid-template-columns: 1fr 1.5fr;
+    grid-template-columns: 1fr 1fr;
     align-items: stretch;
     gap: var(--gap);
     min-height: 100vh;
 }
 
-.intro-text-content,
+.intro-text-content{
+
+}
 .intro-img {
     display: flex;
     flex-flow: column wrap;
