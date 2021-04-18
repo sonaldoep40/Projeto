@@ -16,8 +16,7 @@
 .main-content {
     max-width: 120rem;
     margin: 0 auto;
-    min-height: 5rem;
-    padding: var(--gap);
+    padding: 10rem var(--gap);
 }
 
 .menu-content {
