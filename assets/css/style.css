@@ -8,6 +8,11 @@
     min-height: 100vh;
 }
 
+.logo {
+    width: 110px;
+    height: 110px;
+}
+
 .intro-text-content,
 .intro-img {
     display: flex;
